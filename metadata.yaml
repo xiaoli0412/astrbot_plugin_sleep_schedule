@@ -1,0 +1,14 @@
+name: astrbot_plugin_sleep_schedule
+display_name: 作息表
+short_desc: 夜间睡眠静默 + 早上回放留言
+desc: >-
+  让 bot 有自己的作息表：夜间静默不回消息，早上醒来把昨晚的留言一起回复
+version: 1.0.0
+author: xiaoli0412
+repo: https://github.com/xiaoli0412/astrbot_plugin_sleep_schedule
+category: 行为增强
+tags: [作息, 主动消息, 夜间静默]
+support_platforms:
+  - *
+astrbot_version: '>=4.24,<5'
+license: MIT
